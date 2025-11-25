@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.spdfs.salesforce_saml_login_demo",
+      "sha256_cert_fingerprints": [
+        "57:59:2D:51:61:E8:B7:81:79:6A:3B:7F:45:3C:5F:F2:74:95:15:EC:DB:92:F8:78:A4:A3:9D:F4:39:E0:1C:22"
+      ]
+    }
+  }
+]
+
